@@ -23,3 +23,6 @@ li a {
   padding: 16px;
   text-decoration: none;
 }
+.custom-cur {
+  cursor: url('/images/cursor.png');
+}
