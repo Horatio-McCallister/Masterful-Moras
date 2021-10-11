@@ -29,3 +29,9 @@ li a {
 .secret {
   cursor: url('/images/cursor2.png'), auto;
 }
+input {
+
+    background: transparent;
+    border: none !important;
+    font-size:0;
+}
