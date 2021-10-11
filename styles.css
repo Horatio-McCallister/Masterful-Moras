@@ -26,6 +26,3 @@ li a {
 .custom-cur {
   cursor: url('/images/cursor.png'), auto;
 }
-.banner{
-  display: inline;
-}
