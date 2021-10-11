@@ -26,6 +26,6 @@ li a {
 .custom-cur {
   cursor: url('/images/cursor.png'), auto;
 }
-form {
+.secret {
   cursor: url('/images/cursor2.png'), auto;
 }
