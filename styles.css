@@ -29,7 +29,7 @@ li a {
 .secret {
   cursor: url('/images/cursor2.png'), auto;
 }
-input {
+button {
 
     background: transparent;
     border: none !important;
