@@ -29,6 +29,11 @@ li a {
 .secret {
   cursor: url('/images/cursor2.png'), auto;
 }
+.filter img {
+
+    filter: blur(1.77px) brightness(0.93) contrast(1.29) hue-rotate(2deg) invert(0.15) saturate(1.68) sepia(0.86) ;
+
+}
 button {
 
     background: transparent;
