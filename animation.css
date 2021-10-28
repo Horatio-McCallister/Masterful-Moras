@@ -26,6 +26,10 @@
 filter: none;
 opacity: 1;
 }
+100% {
+filter: none;
+opacity: 1;
+}
 }
 .spinner {
 text-align: center;
