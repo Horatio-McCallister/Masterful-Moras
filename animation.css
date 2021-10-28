@@ -26,10 +26,6 @@
 filter: none;
 opacity: 1;
 }
-100% {
-filter: blur(100px);
-opacity: 0;
-}
 }
 .spinner {
 text-align: center;
